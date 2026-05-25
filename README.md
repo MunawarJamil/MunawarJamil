@@ -20,7 +20,7 @@
 ```js
 const munawar = {
   role     : "Full-Stack Developer (Backend-Focused)",
-  location : "Islamabad, Pakistan",
+  location : "Islamabad,Pakistan",
   company  : "Aqarport · Jordan (Remote)",
   experience: "~3 years",
   focus    : ["Backend Architecture", "REST APIs", "SaaS Platforms"],
@@ -104,7 +104,7 @@ Swagger/OpenAPI · Postman · Git
 <div align="center">
 
 ```
-Currently open to backend / full-stack roles · Remote or Islamabad
+Currently open to backend / full-stack roles · Remote or Lahore/Islamabad
 ```
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munawar-jamil)
